@@ -1,0 +1,5 @@
+Angular Leaf Spot
+Anthracnose Fruit Rot
+Blossom Blight
+Gray Mold
+Healthy
